@@ -1,0 +1,16 @@
+# Binaries and build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+
+# Code IDE files
+.vs/
+*.sln
+*.suo
+*.xcworkspace
+
+# Built plugins
+Plugins/Developer/
